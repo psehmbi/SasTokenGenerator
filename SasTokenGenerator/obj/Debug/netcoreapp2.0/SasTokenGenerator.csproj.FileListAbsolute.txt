@@ -1,0 +1,11 @@
+C:\dev\SasTokenGenerator\SasTokenGenerator\bin\Debug\netcoreapp2.0\SasTokenGenerator.deps.json
+C:\dev\SasTokenGenerator\SasTokenGenerator\bin\Debug\netcoreapp2.0\SasTokenGenerator.runtimeconfig.json
+C:\dev\SasTokenGenerator\SasTokenGenerator\bin\Debug\netcoreapp2.0\SasTokenGenerator.runtimeconfig.dev.json
+C:\dev\SasTokenGenerator\SasTokenGenerator\bin\Debug\netcoreapp2.0\SasTokenGenerator.dll
+C:\dev\SasTokenGenerator\SasTokenGenerator\bin\Debug\netcoreapp2.0\SasTokenGenerator.pdb
+C:\dev\SasTokenGenerator\SasTokenGenerator\obj\Debug\netcoreapp2.0\SasTokenGenerator.csprojResolveAssemblyReference.cache
+C:\dev\SasTokenGenerator\SasTokenGenerator\obj\Debug\netcoreapp2.0\SasTokenGenerator.csproj.CoreCompileInputs.cache
+C:\dev\SasTokenGenerator\SasTokenGenerator\obj\Debug\netcoreapp2.0\SasTokenGenerator.AssemblyInfoInputs.cache
+C:\dev\SasTokenGenerator\SasTokenGenerator\obj\Debug\netcoreapp2.0\SasTokenGenerator.AssemblyInfo.cs
+C:\dev\SasTokenGenerator\SasTokenGenerator\obj\Debug\netcoreapp2.0\SasTokenGenerator.dll
+C:\dev\SasTokenGenerator\SasTokenGenerator\obj\Debug\netcoreapp2.0\SasTokenGenerator.pdb
